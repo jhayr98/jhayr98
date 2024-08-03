@@ -1,3 +1,14 @@
+<div id="header" align="center">
+  <img decoding="async" src="back_git.png" width="800"/>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+
+  
+</div>
+
+
+
 <div align="center">
 <h1 align="center">Hey there, I am <a href="https://www.linkedin.com/in/jhayrsanchezgarc%C3%ADaingindustrial">Jhayr</a> 👋</h1>
 </div>
@@ -7,6 +18,7 @@
 
 Bachelor in Industrial Engineering from  [Pontificia Universidad Catolica del Peru (PUCP)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpuntoedu.pucp.edu.pe%2Forgullo-pucp%2Franking-qs-mundial-2024-la-pucp-sube-al-n10-de-america-latina-y-es-la-mejor-del-peru%2F&psig=AOvVaw3iyUU16QkdP-pepongMl-9&ust=1710122369132000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjekbXM6IQDFQAAAAAdAAAAABAI) and a [TripleTen](https://assets-global.website-files.com/6053a5b7250a50f89c543266/64d6579168f866bb02666720_atO0t_gjKInmjT7bGdmZVV9FilMyiL1llzEMW3l2WvVJj6ht9Dy0l0DKaQwCcumKC6YKMXKiXclfJN7mHzx0VQ-0lO3PtJ4_pwVkXkWDN12ndUqpvT1-QF8FmkrI0LpsBjICWPVC_qE1As6_bsH6Mdo.png) Graduate Student with extensive experience in data science and data analysis . My three years of experience in retail, operations, IT solutions, and logistics have allowed me to refine my skills in dashboard generation, report automation, handling large volumes of data, creating predictive algorithms, and providing support to multidisciplinary teams. I am keen on continuing to evolve in areas related to data analysis and data science, especially in environments utilizing agile methodologies like Scrum. My strengths include Postgre SQL, Python, Metabase, Pentaho and PowerBI, but I am always open to learning new tools.
 
+:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jhayr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhayrsanchezgarc%C3%ADaingindustrial/)
 
 ## Skills:
 
